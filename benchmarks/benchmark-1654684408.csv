@@ -1,0 +1,7 @@
+n	m	graph_type	algorithm	preprocessing_time	preprocessing_extract_mins	preprocessing_decrease_keys	avg_query_time	avg_query_extract_mins	avg_query_decrease_keys	mem_usage	size	avg_stretch	max_stretch	theoretical_max_stretch	samples
+1000	50700	geo	DijkstraPairOracle	3.013e-06	0	0	0.00363907	616	2864	835216	101400	1	1	1	50
+1000	50700	geo	DijkstraPairMapOracle	3.06e-06	0	0	0.0118866	616	2864	835216	101400	1	1	1	50
+1000	50700	geo	DijkstraBidirectionalOracle	2.752e-06	0	0	0.00967447	349	4250	835216	101400	1	1	1	50
+1000	50700	geo	ThorupZwickOracle (k=6)	0.155504	19723	38218	2.26332e-06	0	0	1083456	34434	1.36038	2.57468	11	50
+1000	50700	geo	WulffNielsenOracle (k=6)	0.158076	20975	42574	2.00456e-06	0	0	1242344	39938	1.48487	2.55056	11	50
+1000	50700	geo	AStarGeoOracle (stretch=1.000000)	4.606e-06	0	0	0.00107678	9	599	843216	101400	1	1	1	50

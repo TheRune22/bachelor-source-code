@@ -1,0 +1,3 @@
+n	m	graph_type	algorithm	preprocessing_time	preprocessing_extract_mins	preprocessing_decrease_keys	avg_query_time	avg_query_extract_mins	avg_query_decrease_keys	mem_usage	size	avg_stretch	max_stretch	theoretical_max_stretch	samples
+1000	50534	n_p=0.100000	ThorupZwickOracle (k=2) (path_query)	0.813873	61799	166431	3.21197e-06	0	0	3865408	122594	1.24196	2.74955	3	500
+1000	50534	n_p=0.100000	ThorupZwickOracle (k=2)	0.670349	56353	141959	8.31566e-07	0	0	3521376	111702	1.35679	2.82305	3	500

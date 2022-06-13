@@ -1,0 +1,5 @@
+n	m	graph_type	algorithm	preprocessing_time	preprocessing_extract_mins	preprocessing_decrease_keys	avg_query_time	avg_query_extract_mins	avg_query_decrease_keys	mem_usage	size	avg_stretch	max_stretch	theoretical_max_stretch	samples
+264346	366923	dimacs	ThorupZwickOracle (k=5)	43.5716	16282909	17735027	2.54004e-06	0	0	988649560	31244078	1.19204	1.86602	9	50
+264346	366923	dimacs	ThorupZwickOracle (k=7)	28.2343	11239785	12180261	3.1939e-06	0	0	638354088	20629134	1.29531	2.32769	13	50
+264346	366923	dimacs	ThorupZwickOracle (k=9)	25.5584	10656282	11548601	4.11938e-06	0	0	572653504	18933432	1.37958	3.41066	17	50
+264346	366923	dimacs	ThorupZwickOracle (k=11)	20.6002	8974528	9693841	4.57818e-06	0	0	440367840	15041228	1.42019	2.65017	21	50

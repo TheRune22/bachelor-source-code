@@ -1,0 +1,2 @@
+n	m	graph_type	algorithm	preprocessing_time	preprocessing_extract_mins	preprocessing_decrease_keys	avg_query_time	avg_query_extract_mins	avg_query_decrease_keys	mem_usage	size	avg_stretch	max_stretch	theoretical_max_stretch	samples
+1524453	1948818	dimacs	AStarGeoOracle (stretch=9.000000)	3.429e-06	0	0	72.95	17091094	17268690	79963600	3897636	1.21129	1.421	9	50

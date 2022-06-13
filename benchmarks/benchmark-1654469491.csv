@@ -1,0 +1,2 @@
+n	m	graph_type	algorithm	preprocessing_time	preprocessing_extract_mins	preprocessing_decrease_keys	avg_query_time	avg_query_extract_mins	avg_query_decrease_keys	mem_usage	size	avg_stretch	max_stretch	theoretical_max_stretch	samples
+264346	366923	dimacs	ThorupZwickOracle (k=100)	41.2968	30132153	33866158	nan	4294967295	4294967295	479681760	33829506	nan	0	199	0

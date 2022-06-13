@@ -1,0 +1,4 @@
+n	m	graph_type	algorithm	preprocessing_time	preprocessing_extract_mins	preprocessing_decrease_keys	avg_query_time	avg_query_extract_mins	avg_query_decrease_keys	mem_usage	size	avg_stretch	max_stretch	theoretical_max_stretch	samples
+1070376	1356399	dimacs	DijkstraPairOracle	1.742e-06	0	0	nan	4294967295	4294967295	47391424	2712798	nan	0	1	0
+1070376	1356399	dimacs	DijkstraPairMapOracle	2.966e-06	0	0	nan	4294967295	4294967295	47391424	2712798	nan	0	1	0
+1070376	1356399	dimacs	DijkstraBidirectionalOracle	2.987e-06	0	0	nan	4294967295	4294967295	47391424	2712798	nan	0	1	0

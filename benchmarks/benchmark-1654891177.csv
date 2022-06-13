@@ -1,0 +1,2 @@
+n	m	graph_type	algorithm	preprocessing_time	preprocessing_extract_mins	preprocessing_decrease_keys	avg_query_time	avg_query_extract_mins	avg_query_decrease_keys	mem_usage	size	avg_stretch	max_stretch	theoretical_max_stretch	samples
+1000	50534	n_p=0.100000	DijkstraPairOracle	5.704e-06	0	0	0.00224746	483	3652	832560	101068	1	1	1	500
